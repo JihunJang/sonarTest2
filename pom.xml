@@ -17,6 +17,9 @@
 		<project.name>kaon-web</project.name>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		  <sonar.projectKey>sonarTest2</sonar.projectKey>
+ 		  <sonar.organization>jihunjang</sonar.organization>
+ 		  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<repositories>
 		<repository>
