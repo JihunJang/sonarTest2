@@ -26,6 +26,7 @@
 			<id>maven</id>
 			<url>https://repo1.maven.org/maven2/Central
          </url>
+			<!-- spring -->
 			<releases>
 				<enabled>true</enabled>
 			</releases>
