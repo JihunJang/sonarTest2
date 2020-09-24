@@ -21,6 +21,7 @@
  		  <sonar.organization>jihunjang</sonar.organization>
  		  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
+	<!-- spring -->
 	<repositories>
 		<repository>
 			<id>maven</id>
